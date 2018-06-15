@@ -1,0 +1,25 @@
+{
+  "name": "jsdummy",
+  "version": "0.0.1",
+  "description": "a function object that no matter whether you call it, instantiate it, or access or modify a property, it always returns itself.",
+  "main": "dummy.js",
+  "scripts": {
+    "test": "ava ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronHarris/jsdummy.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Aaron Harris <contactaaronh@gmail.com> (http://github.com/AaronHarris)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AaronHarris/jsdummy/issues"
+  },
+  "homepage": "https://github.com/AaronHarris/jsdummy#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
